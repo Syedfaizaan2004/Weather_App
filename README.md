@@ -1,4 +1,4 @@
-<h1>Weather App</h1>>
+<h1>Weather App</h1>
 <h3>Overview</h3>
 <p>The Weather App is a simple and interactive web application that displays weather information for a specified city. It allows users to search for weather data and view information such as temperature, humidity, and weather conditions.</p>
 <h3>Features</h3>
@@ -19,8 +19,8 @@
   <img width="193" alt="image" src="https://github.com/user-attachments/assets/be0660fb-5828-4335-a57e-fcff2aa4938f" />
   <h2>installation process</h2>
   <ul>
-    <li>use <b>npm install</b>b> for  install dependencies.</li>
-    <li>use npm <b>run dev</b>b> for starting server.</li>
+    <li>use <b>npm install</b> for  install dependencies.</li>
+    <li>use npm <b>run dev</b> for starting server.</li>
   </ul>
 
 
